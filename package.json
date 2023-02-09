@@ -4,13 +4,12 @@
   "private": true,
   "homepage": "https://certaindev.github.io/goit-react-hw-01-components/",
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
     "modern-normalize": "^1.1.0",
-    "prop-types": "^15.8.1",
-    "@emotion/react": "^11.10.5",
-    "@emotion/styled": "^11.10.5",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
@@ -40,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "prop-types": "^15.8.1"
   }
 }
